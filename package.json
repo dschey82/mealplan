@@ -1,0 +1,9 @@
+{
+  "name": "meal-plan",
+  "version": "0.0.0",
+  "description": "MealPlan",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
